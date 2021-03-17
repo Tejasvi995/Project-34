@@ -9,7 +9,7 @@ var ground;
 
 function preload() {
 //preload the images here
-backgroundImg = loadImage("images/Background.png");
+backgroundImg = loadImage("Background.png");
 
 }
 
